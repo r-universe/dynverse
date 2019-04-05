@@ -1,0 +1,9 @@
+[
+  {
+    "package": "dynutils",
+    "url": "https://github.com/dynverse/dynutils",
+    "via": ["dynparam"],
+    "branch": "master",
+    "from": "dynparam"
+  }
+]
