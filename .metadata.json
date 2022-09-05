@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "dyngen",
-    "oncran": true
-  },
-  {
     "package": "dynparam",
     "oncran": true
   },
