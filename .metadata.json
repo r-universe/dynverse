@@ -6,5 +6,29 @@
   {
     "package": "babelwhale",
     "oncran": true
+  },
+  {
+    "package": "dyndimred",
+    "oncran": true
+  },
+  {
+    "package": "dynparam",
+    "oncran": true
+  },
+  {
+    "package": "dynplot",
+    "oncran": true
+  },
+  {
+    "package": "dynutils",
+    "oncran": true
+  },
+  {
+    "package": "dynwrap",
+    "oncran": true
+  },
+  {
+    "package": "lmds",
+    "oncran": true
   }
 ]
