@@ -13,9 +13,3 @@
 	url = https://github.com/dynverse/babelwhale
 	shallow = true
 	registered = true
-[submodule "dynutils"]
-	path = dynutils
-	url = https://github.com/dynverse/dynutils
-	shallow = true
-	branch = master
-	registered = false
