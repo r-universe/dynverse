@@ -18,6 +18,11 @@
 	url = https://github.com/dynverse/dyndimred
 	shallow = true
 	registered = true
+[submodule "dyngen"]
+	path = dyngen
+	url = https://github.com/dynverse/dyngen
+	shallow = true
+	registered = true
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/dynverse/dynparam
