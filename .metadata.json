@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "funkyheatmap",
+    "oncran": true
+  },
+  {
     "package": "lmds",
     "oncran": true
   }
