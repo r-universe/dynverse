@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "dynfeature",
+    "oncran": true
+  },
+  {
     "package": "dyngen",
     "oncran": true
   },
