@@ -1,22 +1,6 @@
 [
   {
-    "package": "dynplot",
-    "oncran": true
-  },
-  {
     "package": "anndata",
-    "oncran": true
-  },
-  {
-    "package": "lmds",
-    "oncran": true
-  },
-  {
-    "package": "dynfeature",
-    "oncran": true
-  },
-  {
-    "package": "dynparam",
     "oncran": true
   },
   {
@@ -24,7 +8,23 @@
     "oncran": true
   },
   {
-    "package": "funkyheatmap",
+    "package": "dyndimred",
+    "oncran": true
+  },
+  {
+    "package": "dynfeature",
+    "oncran": true
+  },
+  {
+    "package": "dyngen",
+    "oncran": true
+  },
+  {
+    "package": "dynparam",
+    "oncran": true
+  },
+  {
+    "package": "dynplot",
     "oncran": true
   },
   {
@@ -36,11 +36,11 @@
     "oncran": true
   },
   {
-    "package": "dyndimred",
+    "package": "funkyheatmap",
     "oncran": true
   },
   {
-    "package": "dyngen",
+    "package": "lmds",
     "oncran": true
   }
 ]
