@@ -1,14 +1,14 @@
 [
   {
+    "package": "dynplot",
+    "oncran": true
+  },
+  {
     "package": "anndata",
     "oncran": true
   },
   {
-    "package": "babelwhale",
-    "oncran": true
-  },
-  {
-    "package": "dyndimred",
+    "package": "lmds",
     "oncran": true
   },
   {
@@ -16,15 +16,15 @@
     "oncran": true
   },
   {
-    "package": "dyngen",
-    "oncran": true
-  },
-  {
     "package": "dynparam",
     "oncran": true
   },
   {
-    "package": "dynplot",
+    "package": "babelwhale",
+    "oncran": true
+  },
+  {
+    "package": "funkyheatmap",
     "oncran": true
   },
   {
@@ -36,11 +36,11 @@
     "oncran": true
   },
   {
-    "package": "funkyheatmap",
+    "package": "dyndimred",
     "oncran": true
   },
   {
-    "package": "lmds",
+    "package": "dyngen",
     "oncran": true
   }
 ]
