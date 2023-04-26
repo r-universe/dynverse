@@ -48,11 +48,6 @@
 	url = https://github.com/dynverse/dynwrap
 	shallow = true
 	registered = true
-[submodule "funkyheatmap"]
-	path = funkyheatmap
-	url = https://github.com/dynverse/funkyheatmap
-	shallow = true
-	registered = true
 [submodule "lmds"]
 	path = lmds
 	url = https://github.com/dynverse/lmds
