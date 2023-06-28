@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "anndata"]
 	path = anndata
 	url = https://github.com/dynverse/anndata
-	shallow = true
-	registered = true
 [submodule "babelwhale"]
 	path = babelwhale
 	url = https://github.com/dynverse/babelwhale
-	shallow = true
-	registered = true
 [submodule "dyndimred"]
 	path = dyndimred
 	url = https://github.com/dynverse/dyndimred
-	shallow = true
-	registered = true
 [submodule "dynfeature"]
 	path = dynfeature
 	url = https://github.com/dynverse/dynfeature
-	shallow = true
-	registered = true
 [submodule "dyngen"]
 	path = dyngen
 	url = https://github.com/dynverse/dyngen
-	shallow = true
-	registered = true
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/dynverse/dynparam
-	shallow = true
-	registered = true
 [submodule "dynplot"]
 	path = dynplot
 	url = https://github.com/dynverse/dynplot
-	shallow = true
-	registered = true
 [submodule "dynutils"]
 	path = dynutils
 	url = https://github.com/dynverse/dynutils
-	shallow = true
-	registered = true
 [submodule "dynwrap"]
 	path = dynwrap
 	url = https://github.com/dynverse/dynwrap
-	shallow = true
-	registered = true
 [submodule "lmds"]
 	path = lmds
 	url = https://github.com/dynverse/lmds
-	shallow = true
-	registered = true
