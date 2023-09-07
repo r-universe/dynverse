@@ -11,18 +11,12 @@
 [submodule "dyndimred"]
 	path = dyndimred
 	url = https://github.com/dynverse/dyndimred
-[submodule "dynfeature"]
-	path = dynfeature
-	url = https://github.com/dynverse/dynfeature
 [submodule "dyngen"]
 	path = dyngen
 	url = https://github.com/dynverse/dyngen
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/dynverse/dynparam
-[submodule "dynplot"]
-	path = dynplot
-	url = https://github.com/dynverse/dynplot
 [submodule "dynutils"]
 	path = dynutils
 	url = https://github.com/dynverse/dynutils
